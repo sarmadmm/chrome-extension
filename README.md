@@ -1,4 +1,7 @@
 # coc8640b4ab7ea074c56f6bdc
+//This is the chrome extension we made as project that is used to store the links in the current open tabs usinf chrome.tabs API or we can also enter the tabs we 
+want to enter ourselves, they can be deleted as well. 
+
 
 Quick start:
 
